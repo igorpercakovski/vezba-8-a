@@ -1,0 +1,5 @@
+Najprvo vo pipeline properties gi zadavame source i target path vo parameters
+potoa go dodavame snapot snaplogic lists koj go konfigurirame na source path
+potoa dodavame mapper na koj go mapirame source path na snaplogic database
+potoa dodavame file read za da go procitame fajlot so sakame da go kopirame
+i na krajot imame snaplogic write koj go konfigurirame da zapisuva vo targetpath
